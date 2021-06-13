@@ -37,7 +37,7 @@
 
     การละเมิดลิขสิทธิ์มีโทษทางอาญาทั้งจำคุกและโทษปรับแล้วแต่กรณี และเจ้าของลิขสิทธิ์
     
-![Alt Text](https://media.giphy.com/media/OVnGCUvvGdkyhqNR2H/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fbVkZIWbCMgSfMO3ps/giphy.gif)
     
 **ช่องทางติดต่อผู้พัฒนา:**
     
