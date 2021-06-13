@@ -36,8 +36,8 @@
     หากได้รับอนุญาต ให้นำไปจำหน่ายจะต้องห้ามจำหน่ายเกินราคาที่ผู้พัฒนาตกลงกันไว้
 
     การละเมิดลิขสิทธิ์มีโทษทางอาญาทั้งจำคุกและโทษปรับแล้วแต่กรณี และเจ้าของลิขสิทธิ์
-    
-![Alt Text](https://media.giphy.com/media/OVnGCUvvGdkyhqNR2H/giphy.gif)
+
+<img src="https://media.giphy.com/media/UfH0vcloUa086rLimz/giphy.gif" width="1280" height="620">
     
 **ช่องทางติดต่อผู้พัฒนา:**
     
