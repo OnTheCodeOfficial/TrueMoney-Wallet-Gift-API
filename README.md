@@ -33,3 +33,9 @@
     หากได้รับอนุญาต ให้นำไปจำหน่ายจะต้องห้ามจำหน่ายเกินราคาที่ผู้พัฒนาตกลงกันไว้
 
     การละเมิดลิขสิทธิ์มีโทษทางอาญาทั้งจำคุกและโทษปรับแล้วแต่กรณี และเจ้าของลิขสิทธิ์
+    
+**ช่องทางติดต่อผู้พัฒนา:**
+    
+    Discord : Mr.OnTheCode#9532
+     Email  : onthecodeofficial@gmail.com
+    Youtube : https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw
