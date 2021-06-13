@@ -37,8 +37,12 @@
 
     การละเมิดลิขสิทธิ์มีโทษทางอาญาทั้งจำคุกและโทษปรับแล้วแต่กรณี และเจ้าของลิขสิทธิ์
     
+![alt text](https://thumbs.gfycat.com/EducatedHauntingAnemoneshrimp-mobile.gif)
+    
 **ช่องทางติดต่อผู้พัฒนา:**
     
     Discord : Mr.OnTheCode#9532
      Email  : onthecodeofficial@gmail.com
     Youtube : https://www.youtube.com/channel/UCR36RiqSuLNS6P1-aTjO2aw
+    
+
