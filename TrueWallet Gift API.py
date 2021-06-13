@@ -8,7 +8,7 @@ os.system('cls') #ล้างเทอร์มินัล
 
 
 #SETTING
-reciver_phone_number = '0629401996' #เบอร์ผู้รับเงิน
+reciver_phone_number = '0123456789' #เบอร์ผู้รับเงิน
 
 
 #INPUT
